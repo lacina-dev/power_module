@@ -1,8 +1,6 @@
 # Power module
  Schematic, 3D model and manufacture files for the VITULUS power module.
 
- Extension for the VITULUS power module.
-
  For power module extension see [Power module extension](https://github.com/lacina-dev/power_module_extension).
 
  For more info see this doc. 
