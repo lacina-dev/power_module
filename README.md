@@ -5,6 +5,8 @@
 
  For power module extension see [Power module extension](https://github.com/lacina-dev/power_module_extension).
 
+ For power module ROS package see [Vitulus ups](https://github.com/lacina-dev/vitulus_ups).
+
  For more info see this doc. 
  [VITULUS Power module assembly and wiring](https://docs.google.com/document/d/1gbUeb38EpmrZyLzsyhS_GtbKjz4Z-vhWeXakbzIWZlc/edit?usp=sharing)
 
